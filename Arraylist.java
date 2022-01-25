@@ -2,7 +2,7 @@ import java.util.*;
 
 class Arraylist {
     public static void main(String args[]){
-        ArrayList<String> list=new ArrayList<String>();//Creating arraylist
+        ArrayList<String> list=new ArrayList<String>();
         list.add("Aayush");
         list.add("Amit");
         list.add("Saurav");
